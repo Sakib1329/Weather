@@ -1,16 +1,22 @@
-# weather
+# WeatherAPI Project
 
-A new Flutter project.
+## Overview
+This project is a weather forecasting app that fetches real-time weather data using a public WeatherAPI. It allows users to check the weather conditions, including temperature, humidity, and more, for any location Pass US Zipcode, UK Postcode, Canada Postalcode, IP address, Latitude/Longitude (decimal degree) or city name. 
 
-## Getting Started
-g
-This project is a starting point for a Flutter application.
+## Features
+- Real-time weather data fetching.
+- Displays temperature, humidity, wind speed, and other weather parameters.
+- Supports searching weather by location (city name, coordinates).
+- User-friendly interface built with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- **Frontend**: Flutter
+- **Backend**: WeatherAPI (for fetching weather data)
+- **API**: [WeatherAPI](https://weatherapi.com/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sakib1329/Weather.git
